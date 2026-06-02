@@ -13,4 +13,6 @@ resource "azurerm_resource_group" "jay3_rg" {
 resource "azurerm_resource_group" "jay4_rg" {  
   name     = jay4
   location = westus
+
+  
 }
